@@ -25,7 +25,7 @@ namespace QL_Animal
         //Phuong thuc an
         public override string Eat()
         {
-            return "Mèo ăn cá";
+            return "Mèo ăn cá"
         }
     }
 }
