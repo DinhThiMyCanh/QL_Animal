@@ -11,6 +11,7 @@ namespace QL_Animal
         static void Main(string[] args)
         {
             DS_Animal list = new DS_Animal();
+            Animal animal = new Animal();
 
             Animal animal1 = new Cat("Meo trang",1);
             animal1.animalSound();

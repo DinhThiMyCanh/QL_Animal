@@ -17,10 +17,10 @@ namespace QL_Animal
         {
 
         }
-   /*     public override string animalSound()
+       public override string animalSound()
         {
             return "Mèo kêu meo meo!!";
-        }*/
+        }
         
         //Phuong thuc an
         public override string Eat()
